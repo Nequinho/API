@@ -1,0 +1,8 @@
+{
+    "nome": "Leitor",
+    "Livro": " Memórias postumas de Bras Cubas",
+    "Promocao": "10% de Desconto",
+    "Estilo": "Romance",
+    "Preco" : "Caro",
+    "Image":"<img src='IMG/imagem1.jpg' width='200px'>"
+}
